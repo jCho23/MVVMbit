@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{D94A0A01-B6F4-40DB-BCCD-9D4E8FFB90CC}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVVMbit/Model/Shoes.cs">
+    <Files>
+      <File FileName="MVVMbit/Model/Shoes.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
